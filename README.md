@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Antonio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=student%20developer%20%E2%80%A2%20stargazer%20%E2%80%A2%20mind%20nerd&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b2a78&height=160&section=header&text=Antonio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Leo+Classroom;Reading+the+stars+and+the+mind;Turning+coffee+into+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Leo+Classroom;Reading+shadow+slave" alt="typing" />
 
 <br/>
 
@@ -43,24 +43,21 @@ fascinated  : Astrology, psychology and programming
 
 ## `> currently_learning`
 
-| Topic | Progress |
-| :-- | :-- |
-| Quarkus and CDI | ![](https://geps.dev/progress/60?dangerColor=7c3aed&warningColor=7c3aed&successColor=7c3aed) |
-| Data modelling | ![](https://geps.dev/progress/40?dangerColor=7c3aed&warningColor=7c3aed&successColor=7c3aed) |  
-| C# and .NET | ![](https://geps.dev/progress/60?dangerColor=7c3aed&warningColor=7c3aed&successColor=7c3aed) |
-| Oracle PL/SQL and database design | ![](https://geps.dev/progress/90?dangerColor=7c3aed&warningColor=7c3aed&successColor=7c3aed) |
-| Containers and self-hosting | ![](https://geps.dev/progress/45?dangerColor=7c3aed&warningColor=7c3aed&successColor=7c3aed) |
-
+```text
+Quarkus and CDI   ██████░░░░  60%
+Data modelling    ████░░░░░░  40%
+C# and .NET       ██████░░░░  60%
+Oracle PL/SQL     █████████░  90%
+Containers        ████░░░░░░  45%
+```
 ---
 
 ## `> stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Antonio040&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio040&layout=compact&theme=midnight-purple&hide_border=true" alt="languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Antonio040&theme=midnight-purple&hide_border=true" alt="streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=1a1b27&title_color=a78bfa&text_color=e6edf3&icon_color=a78bfa" alt="stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=YOURUSERNAME&hide_border=true&background=1a1b27&ring=a78bfa&fire=a78bfa&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=9198a1" alt="streak" />
 
 </div>
 
