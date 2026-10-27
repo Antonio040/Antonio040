@@ -63,16 +63,6 @@ Containers        ████░░░░░░  45%
 
 ---
 
-## `> contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Antonio/Antonio/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
----
-
 ## `> say_hi`
 
 <div align="center">
