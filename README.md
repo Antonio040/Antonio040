@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Antonio&label=visitors&color=7c3aed&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Antonio?style=flat-square&color=7c3aed&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=Antonio040&label=visitors&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Antonio040?style=flat-square&color=7c3aed&logo=github)
 
 </div>
 
