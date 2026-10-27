@@ -57,10 +57,10 @@ fascinated  : Astrology, psychology and programming
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Antonio&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio&layout=compact&theme=midnight-purple&hide_border=true" alt="languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Antonio040&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio040&layout=compact&theme=midnight-purple&hide_border=true" alt="languages" />
 
-<img src="https://streak-stats.demolab.com/?user=Antonio&theme=midnight-purple&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Antonio040&theme=midnight-purple&hide_border=true" alt="streak" />
 
 </div>
 
